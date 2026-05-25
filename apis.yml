@@ -1,0 +1,113 @@
+aid: sylvera
+name: Sylvera
+description: >-
+  Sylvera is a London-headquartered carbon data and climate intelligence
+  platform — often described as the "Moody's for the voluntary carbon market"
+  — providing independent ratings, market data, and geospatial analytics that
+  help corporate buyers, investors, project developers, governments, and
+  standards bodies make informed decisions across carbon and commodities
+  markets. Founded in 2020 by Allister Furey and Samuel Gill, Sylvera combines
+  remote sensing, machine learning over satellite imagery and LiDAR-derived
+  biomass data, and on-the-ground project assessment to produce letter-graded
+  ratings (e.g., AA, A, B) for carbon credit projects across nature-based
+  (REDD+, ARR, IFM), engineered removals, renewable energy, and cookstove
+  methodologies. The platform's product surface spans Ratings, Market
+  Intelligence (supply, demand, and pricing signals), an Article 6 & CORSIA
+  Hub for compliance risk, a Market Gateway to roughly 400 million tonnes of
+  project inventory, Earth Analytics and a Biomass Atlas for geospatial MRV,
+  and Commodity Insights covering CORSIA, LCFS, CFR, and FuelEU Maritime
+  mechanism eligibility and carbon intensity assessments. Sylvera distributes
+  its data through a web platform, downloadable reports, and a gated Carbon
+  Credit Analytics API (base URL https://api.sylvera.com/v1, JSON API style,
+  API-key auth) used to syndicate ratings and pricing into ESG and
+  sustainability reporting tools such as Workiva, Persefoni, and Watershed.
+  Commercial packaging runs Freemium, Essentials, and Enterprise tiers, with
+  Accelerated Ratings, Market Forecasts, and Geospatial add-ons all sold via
+  contact-sales; there is no public OpenAPI specification, no published SDK,
+  and no Sylvera GitHub organization — the API and full ratings catalog are
+  available only to authenticated enterprise customers.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon Markets
+  - Voluntary Carbon Market
+  - Carbon Credits
+  - Carbon Credit Ratings
+  - Climate Intelligence
+  - Climate Tech
+  - ESG
+  - Sustainability
+  - MRV
+  - Geospatial
+  - Remote Sensing
+  - Biomass
+  - REDD Plus
+  - Nature Based Solutions
+  - Carbon Removals
+  - CORSIA
+  - Article 6
+  - LCFS
+  - FuelEU Maritime
+  - Commodities
+  - Ratings Agency
+  - Decarbonization
+  - Net Zero
+url: https://raw.githubusercontent.com/api-evangelist/sylvera/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.sylvera.com
+  - type: Product
+    url: https://www.sylvera.com/products/ratings
+  - type: MarketIntelligence
+    url: https://www.sylvera.com/products/market-intelligence
+  - type: EarthAnalytics
+    url: https://www.sylvera.com/products/earth-analytics
+  - type: BiomassAtlas
+    url: https://www.sylvera.com/products/biomass-atlas
+  - type: MarketGateway
+    url: https://www.sylvera.com/products/market-gateway
+  - type: Article6CORSIAHub
+    url: https://www.sylvera.com/products/article-6-corsia-hub
+  - type: Commodities
+    url: https://www.sylvera.com/solutions/commodities
+  - type: Solutions
+    url: https://www.sylvera.com/solutions
+  - type: Resources
+    url: https://www.sylvera.com/resources
+  - type: Blog
+    url: https://www.sylvera.com/blog
+  - type: Pricing
+    url: https://www.sylvera.com/pricing
+  - type: APIOverview
+    url: https://www.sylvera.com/blog/the-carbon-credit-analytics-api
+  - type: APIBrochure
+    url: https://info.sylvera.com/hubfs/Sylvera%20CCA%20API.pdf
+  - type: Status
+    url: https://status.sylvera.com
+  - type: SignUp
+    url: https://platform.sylvera.com/signup
+  - type: Login
+    url: https://platform.sylvera.com/login
+  - type: Company
+    url: https://www.sylvera.com/company
+  - type: Careers
+    url: https://www.sylvera.com/careers
+  - type: Contact
+    url: https://www.sylvera.com/contact
+  - type: Email
+    url: mailto:info@sylvera.io
+  - type: Twitter
+    url: https://twitter.com/sylvera_
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sylvera
+  - type: YouTube
+    url: https://www.youtube.com/@sylvera
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
