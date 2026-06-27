@@ -90,7 +90,7 @@ common:
     url: https://info.sylvera.com/hubfs/Sylvera%20CCA%20API.pdf
   - type: Status
     url: https://status.sylvera.com
-  - type: SignUp
+  - type: Signup
     url: https://platform.sylvera.com/signup
   - type: Login
     url: https://platform.sylvera.com/login
